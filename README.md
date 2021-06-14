@@ -1,5 +1,6 @@
 # lab05
 [![Build Status](https://travis-ci.com/Ko71k/lab05.svg?branch=main)](https://travis-ci.com/Ko71k/lab05)
+[![Coverage Status](https://coveralls.io/repos/github/Ko71k/lab5/badge.svg?branch=main)](https://coveralls.io/github/Ko71k/lab5?branch=main)
 ```
 
     Создайте CMakeList.txt для библиотеки banking.
