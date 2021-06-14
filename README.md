@@ -1,5 +1,5 @@
 # lab05
-[![Build Status](https://travis-ci.com/Ko71k/lab05.svg?branch=main)](https://travis-ci.com/Ko71k/lab05)
+[![Build Status](https://travis-ci.com/Ko71k/lab5.svg?branch=main)](https://travis-ci.com/Ko71k/lab5)
 [![Coverage Status](https://coveralls.io/repos/github/Ko71k/lab5/badge.svg?branch=main)](https://coveralls.io/github/Ko71k/lab5?branch=main)
 ```
 
